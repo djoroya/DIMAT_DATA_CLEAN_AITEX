@@ -1,0 +1,62 @@
+{
+  "TPX": {
+    "nombre": "Polimetilpenteno",
+    "rho_min": 0.83,
+    "rho_max": 0.85,
+    "referencia": "https://www.mitsuichem.com/service/engineering/tpx.htm"
+  },
+  "PHB": {
+    "nombre": "Polihidroxibutirato",
+    "rho_min": 1.23,
+    "rho_max": 1.25,
+    "referencia": "https://www.biomer.de/en/products/phb.html"
+  },
+  "PET": {
+    "nombre": "Polietileno Tereftalato",
+    "rho_min": 1.34,
+    "rho_max": 1.40,
+    "referencia": "https://material-properties.org/es/pet-densidad-resistencia-punto-de-fusion-conductividad-termica/"
+  },
+  "PLA": {
+    "nombre": "Ácido Poliláctico",
+    "rho_min": 1.24,
+    "rho_max": 1.25,
+    "referencia": "https://www.natureworksllc.com/What-is-Ingeo/General-Material-Properties"
+  },
+  "PES": {
+    "nombre": "Poliéter Sulfona",
+    "rho_min": 1.37,
+    "rho_max": 1.38,
+    "referencia": "https://www.ensingerplastics.com/en-us/shapes/materials/polysulfone"
+  },
+  "PP": {
+    "nombre": "Polipropileno",
+    "rho_min": 0.90,
+    "rho_max": 0.91,
+    "referencia": "http://www.matweb.com/search/datasheet.aspx?matguid=8b8e0b0e7e1f4e3b8e0b0e7e1f4e3b8e"
+  },
+  "TPE": {
+    "nombre": "Elastómero Termoplástico",
+    "rho_min": 0.90,
+    "rho_max": 1.20,
+    "referencia": "https://www.rtpcompany.com/products/elastomers/"
+  },
+  "PE": {
+    "nombre": "Polietileno",
+    "rho_min": 0.91,
+    "rho_max": 0.96,
+    "referencia": "https://mecyplastec.es/densidad-del-polietileno-guia-completa-sobre-sus-propiedades/"
+  },
+  "PA": {
+    "nombre": "Poliamida",
+    "rho_min": 1.13,
+    "rho_max": 1.15,
+    "referencia": "https://www.dupont.com/products/zytel-nylon-resin.html"
+  },
+  "PBT": {
+    "nombre": "Polibutileno Tereftalato",
+    "rho_min": 1.31,
+    "rho_max": 1.32,
+    "referencia": "https://www.polyplastics.com/en/product/lines/pbt/index.html"
+  }
+}

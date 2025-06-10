@@ -1,5 +1,6 @@
 import os 
 import pandas as pd
+import json
 folder_path = os.path.dirname(os.path.abspath(__file__))
 
 def save_data(df, num):
@@ -49,4 +50,17 @@ def load_physical_data():
     # Rename columns to match expected format
     df.columns = ['Orientation (deg)', 'Crystallinity (%)', 'Strength (MPa)']
     
+    return df
+
+
+def load_density_data():
+    """
+    Load the density data from a CSV file.
+    
+    Returns:
+    pd.DataFrame: The DataFrame containing density data.
+    """
+    file_path = os.path.join(folder_path, 'DENSITY.json')
+    
+    df = json.load(open(file_path, 'r'))
     return df
