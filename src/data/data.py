@@ -35,3 +35,18 @@ def load_data(num="00"):
         df.pop("Test")
         df.pop("Date")
     return df
+
+def load_physical_data():
+    """
+    Load the physical properties data from a CSV file.
+    
+    Returns:
+    pd.DataFrame: The DataFrame containing physical properties.
+    """
+    file_path = os.path.join(folder_path, 'PHYSICAL.csv')
+    df = pd.read_csv(file_path)
+    
+    # Rename columns to match expected format
+    df.columns = ['Orientation (deg)', 'Crystallinity (%)', 'Strength (MPa)']
+    
+    return df
