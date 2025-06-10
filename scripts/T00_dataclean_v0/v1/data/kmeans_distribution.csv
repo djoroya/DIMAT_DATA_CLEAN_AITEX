@@ -1,0 +1,50 @@
+data,label,count,count_mat
+"['PLA + CaCO3' 'PLA' 'PP H561R' 'SABIC M200056' 'rPET tejidos + rPET'
+ 'PET + 3% Antivirico SUKANO' 'rPET DEC + rPET' '20180 rPETD/rPET'
+ 'PES + MNV' 'PET + 1% Bactiblock 101 R4.47' 'PP + Talco + Rojo'
+ 'PP HS61R' 'A + rPET 50/50' 'A + rPET' 'PES GRAFENO 10000 ppm'
+ 'PES GRAFENO 5000 ppm' 'PES SEMI-MAT' 'rPET' 'COPET'
+ 'LLDPE ASPUN (RESINEX)' 'SABIC M200024' 'rPET 30/70']",0,45,22
+['TPX DX350' 'PLA L130' 'TPX 350' 'TPX'],1,12,4
+"['PHB DAN 04493' 'PLA + 0.1 Silano' 'PHB 2450 mod' 'ZK6HF'
+ 'COPET GP001-EASTMAN' 'TPX' 'PHB DANIMER' 'ZK5HF PMMA' 'ZK6HF '
+ 'ZK6HF PMMA' 'ADVANITE 53001']",2,47,11
+"['rPET 30/70' 'TCP - ET' 'LLDPE ASPUN (RESINEX)' 'PP HS61R' 'rPET + PTT'
+ 'PE ASPUN' 'PP + 10% Talco' 'PET + 1% Bactiblock 101 R4.47' 'PES + MNV'
+ 'PP + Talco + Verde' 'PES + 1% BB101 R4.47'
+ 'PE PURELL GA7760 + 4% Aditivo' 'PEBAX MV 1074 SA' 'COPET' 'PBS' 'rPET']",3,32,16
+"['ADUANITE S3001' 'ADVANITE 53001' 'rPET + CO2 Pure' 'PLA LUMINY L130'
+ 'rPET + 2% Amarillo' 'rPET' 'rPET 0.5% HIPS' 'PA B33L' 'LOWMELT 53001'
+ 'rPET 2% HIPS' 'PET + PEF' 'PLA']",4,29,12
+"['rPET' 'BATCH 2' 'PE ASPUN' 'rPET BATCH 1' 'Reclado químico VELOR'
+ 'rPET BATCH 2' 'rPET BATCH 3' 'MP1925 + 0.3 TiO2' 'PET + 15% SPH16'
+ 'NEGOMBO WHITE 30% + rPET 70%' 'PET + 3% Antivirico SUKANO' 'TPC - ET LG'
+ 'A + rPET' 'rPET Batch 1' 'PBS' 'SABIC M200056' 'MP1924 + 0.3 TiO2']",5,61,17
+"['TPX' 'TPX 350' 'TPX DX350' 'PBT + 15% MB' 'PLA LUMINY L130'
+ 'PLA 6100D NATUREWORKS' 'PBT + 15% SPH16W' 'COPET GP001-EASTMAN'
+ 'PP + FR' 'TPX DX350 0.5% Blanco' 'TPX DX350 0.66% Negro'
+ 'PLA + 0.1 Silano' 'TPX + Negro']",6,37,13
+['PE PURELL GA7760 + 4% Aditivo' 'PP 561R' 'PET + 3% Zeol Ag' 'COPET'],7,8,4
+"['rPET' 'TPX DX350' 'PA' 'PA H24' 'TPX' 'PP + 07%Amarillo + 2%UV 792930'
+ 'PBT + 15% SPH16W' 'PA6 PENTABATC' 'PA + CNT PA Nanocyl PA (H24)'
+ 'PA B33L' 'PET + 15% SPH16' 'PP + FR'
+ 'PP + 07%Amarillo + 2%UV 792930 + 4%FR LXR935'
+ 'PP + 07%Rojo + 2%UV 792930' 'PP + 07%Rojo + 2%UV 792930 + 4% FR LXR935'
+ 'rPET BATCH 1']",8,27,16
+['TCP - ET' 'PE PURELL GA7760 + 4% Aditivo'],9,2,2
+"['TPE Producción' 'PBS' 'NEGOMBO BLACK 30% + rPET 70%' 'rPET 50/50'
+ '100%MB SP16H' 'TPC - ET LG' 'rPET DEC + rPET' 'PBT + 3% Octil' 'COPET'
+ 'A + rPET' 'TPE + 10% Plastificante' 'SPH16' 'A + rPET 50/50'
+ 'rPET DEC + rPET (50%/50%)' 'rPET DECATHLON' '100% NEGOMBO SIN COLOR'
+ '30/70 (Color/rPET)' 'PE ASPUN']",10,42,18
+"['PP HS61R' 'rPET + CO2 Pure 3%' 'rPET + CO2 Pure 2.5%' 'PHB 2450 mod'
+ 'PS 454N' 'TPX' 'PP H561R' 'PP + Talco + Verde' 'PHB 2450 mod Blanco 2%'
+ 'PHB 2450 mod Azul 2%' 'ABS H380']",11,17,11
+"['PP H561R' 'PA6 B27' 'PP HS61R' 'Pruebas PP Amarilleamiento'
+ 'PA6 PENTABATC' 'PA6 H24' 'PA B33L' 'PA + CNT PA Nanocyl PA (H24)' 'rPET']",12,17,9
+"['PEF 75:25 (0560:0491)' 'PP HS61R' 'PP 561R' 'rPET 0.5% HIPS'
+ 'PET + Avanza O 0.3.%' '20180 rPETD/rPET' 'PE PURELL GA7760 + 4% Aditivo'
+ 'PLA' 'COPET']",13,13,9
+"['PET + PEF' 'PEF 75:25 (0560:0491)' 'PET + 3% Antivirico SUKANO' 'SPH16'
+ 'PA B33L' 'PET + 15% SPH16' '100%MB SP16H' 'rPET Batch 1' 'PP + FR'
+ 'PE ASPUN' 'SABIC M200056']",14,15,11
