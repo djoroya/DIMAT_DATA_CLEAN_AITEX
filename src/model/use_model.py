@@ -91,8 +91,6 @@ def predict_nn(samples):
                         "PES", "PET", "PHB", 
                         "PLA", "PP" , "TPE", 
                         "TPX"]
-        if 'Material' not in sample:
-            raise ValueError("Sample must contain 'Material' key with a valid material name.")
 
         material = sample.pop('Material', None);
 
